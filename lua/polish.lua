@@ -2,6 +2,7 @@
 vim.opt.tabstop = 4
 vim.opt.shiftwidth = 4
 vim.opt.softtabstop = 4
+vim.opt.expandtab = false
 
 -- This will run last in the setup process.
 -- This is just pure lua so anything that doesn't
